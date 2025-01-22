@@ -5,9 +5,9 @@ import Banner from "../../components/Banner/Banner";
 import Footer from "../../components/Footer/Footer";
 import "./Home.css";
 
-import aiPoster from "../../assets/images/test1.jpg";
-import cloudPoster from "../../assets/images/test2.jpg";
-import cyberPoster from "../../assets/images/test3.jpg";
+import aiPoster from "../../assets/images/Event2.jpeg";
+import cloudPoster from "../../assets/images/Event3.webp";
+import cyberPoster from "../../assets/images/Event4.webp";
 
 function Home() {
   const events = [

@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import "./Banner.css";
-import interstellarPoster from "../../assets/images/interstellar.jpg";
+import interstellarPoster from "../../assets/images/Event1.jpg";
 
 function Banner() {
   const bannerRef = useRef(null);
