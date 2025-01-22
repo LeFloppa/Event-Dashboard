@@ -1,0 +1,28 @@
+.site-footer {
+  background: var(--primary-color);
+  color: #e0dae7;
+  text-align: center;
+  padding: 1.5rem 1rem;
+  font-size: 0.9rem;
+}
+
+.footer-content p {
+  margin: 0.5rem 0;
+}
+
+.social-icons {
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.social-icons a {
+  color: #fff;
+  font-size: 1.2rem;
+  transition: color 0.3s;
+}
+
+.social-icons a:hover {
+  color: var(--accent-color);
+}
